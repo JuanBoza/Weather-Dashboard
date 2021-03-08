@@ -8,7 +8,8 @@ This weather dashboard app uses the OpenWeather API to display a five day weathe
   * API 
   * 
 # Url 
-  * Github Repo: 
+  * Github Repo: https://github.com/JuanBoza/Weather-Dashboard
   * Deployed Application: 
   * 
 # Screenshots
+![Screenshot (42)](https://user-images.githubusercontent.com/70541910/110262043-91d9ce80-7f6f-11eb-8c56-d02ad8b91570.png)
